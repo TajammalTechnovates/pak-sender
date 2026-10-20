@@ -14,7 +14,7 @@
 
 ## 📌 What is Pak Sender? — What does this project do?
 
-Pak Sender is one platform for all business messaging in Pakistan and worldwide: bulk & OTP SMS, voice OTP calls, email marketing campaigns, branded invoices & receipts, recurring invoices, daily payment reports and customer automations (thank-you, loyalty points, offers) — sent by hand from the website or automatically from your own software through one REST API key. Email Marketing (email.paksender.com) is part of Pak Sender itself.
+Pak Sender is one platform for all business messaging in Pakistan and worldwide: bulk & OTP SMS, voice OTP calls, email marketing campaigns, branded invoices & receipts, recurring invoices, daily payment reports and customer automations (thank-you, loyalty points, offers) — sent by hand from the website or automatically from your own software through one REST API key. Email marketing is built into Pak Sender itself at paksender.com.
 
 ## 🎯 Who is it for?
 
